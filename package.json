@@ -1,5 +1,5 @@
 {
-  "name": "bearcat",
+  "name": "wbearcat",
   "version": "0.4.30",
   "description": "Magic, self-described javaScript objects build up elastic, maintainable front-backend javaScript applications",
   "main": "index.js",
